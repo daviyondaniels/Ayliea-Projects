@@ -2,6 +2,8 @@ Welcome to the cybersecurity section! I store all cybersecurity-related projects
 
 # Directory
 
+## Cryptography
+
 ## Reconnaissance
 
 ### Active
