@@ -11,3 +11,4 @@ The directory follows:
 # Directory
 
 - [Battleship](https://github.com/Ayliea/Ayliea-Projects/blob/main/Games/Battleship)
+- [Tic-Tac-Toe](https://github.com/Ayliea/Ayliea-Projects/blob/main/Games/Tic-Tac-Toe)s
